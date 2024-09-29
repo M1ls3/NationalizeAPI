@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\nationalizeapi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|solutionrelative:nationalizeapi\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\nationalizeapi\\countryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|solutionrelative:nationalizeapi\\countryinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\full stack \u002B pm\\lab1\\nationalizeapi\\nationalizeapi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|solutionrelative:nationalizeapi\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\nationalizeapi\\nationalize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|solutionrelative:nationalizeapi\\nationalize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|c:\\!dizox\\\u043B\u0430\u0431\u0438\\\u0447\u043D\u0443\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\full stack \u002B pm\\lab1\\nationalizeapi\\nationalizeapi\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|solutionrelative:nationalizeapi\\apihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\nationalizeapi\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|solutionrelative:nationalizeapi\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\nationalizeapi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4ECE9E2-EACA-41A3-9E7F-CC9753BAF1D4}|NationalizeAPI\\NationalizeAPI.csproj|solutionrelative:nationalizeapi\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 174,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 226,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NationalizeAPI\\MainWindow.xaml",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\MainWindow.xaml",
+              "RelativeToolTip": "NationalizeAPI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-24T22:23:12.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\DBHelper.cs",
+              "RelativeDocumentMoniker": "NationalizeAPI\\DBHelper.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\DBHelper.cs",
+              "RelativeToolTip": "NationalizeAPI\\DBHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:26:13.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIHelper.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\APIHelper.cs",
+              "RelativeDocumentMoniker": "NationalizeAPI\\APIHelper.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\APIHelper.cs",
+              "RelativeToolTip": "NationalizeAPI\\APIHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:58:53.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nationalize.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\Nationalize.cs",
+              "RelativeDocumentMoniker": "NationalizeAPI\\Nationalize.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\Nationalize.cs",
+              "RelativeToolTip": "NationalizeAPI\\Nationalize.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:01:13.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\App.xaml",
+              "RelativeDocumentMoniker": "NationalizeAPI\\App.xaml",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\App.xaml",
+              "RelativeToolTip": "NationalizeAPI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-29T18:49:03.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryInfo.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\CountryInfo.cs",
+              "RelativeDocumentMoniker": "NationalizeAPI\\CountryInfo.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\CountryInfo.cs",
+              "RelativeToolTip": "NationalizeAPI\\CountryInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T09:00:19.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NationalizeAPI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\!Dizox\\\u041B\u0430\u0431\u0438\\\u0427\u041D\u0423\\2024 \u0440\u0456\u043A 1 \u0441\u0435\u043C\u0435\u0441\u0442\u0440 4 \u043A\u0443\u0440\u0441\u0443\\Full Stack \u002B PM\\lab1\\NationalizeAPI\\NationalizeAPI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NationalizeAPI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAFcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:23:11.246Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
